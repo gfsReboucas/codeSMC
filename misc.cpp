@@ -109,4 +109,8 @@ double sat(double x)
 double sgn(double x)
 {
     return ( x < 0.0 ? -1.0 : 1.0);
+<<<<<<< 3c43867d797363b66e968d63b9eb00c630d0565d
 }
+=======
+}
+>>>>>>> miscellaneous functions
